@@ -1,0 +1,382 @@
+{
+  "id": "sun-geniesloki",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@geniesloki Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_6a0dc75a1a08",
+    "display_name": "geniesloki",
+    "user_id": "@geniesloki",
+    "description": "Community Archive-derived proof-of-search sun for @geniesloki.",
+    "document_count": 11518,
+    "word_count": 321757,
+    "active_days": 438,
+    "emissions": [
+      "Think",
+      "Don",
+      "Good",
+      "Lot",
+      "Yeah",
+      "Things"
+    ],
+    "generated_at": "2026-06-27T16:06:03.847091+00:00",
+    "color": "#f59e0b",
+    "mass": 12.682
+  },
+  "planets": [
+    {
+      "id": "planet_84f2f061cd41",
+      "name": "Think",
+      "summary": "Archive cluster around think: 8413 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "thing",
+        "really",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_86d623d5f56e",
+          "title": "Think receipt from 2020-09-25",
+          "excerpt": "Feeling mischievous so here's another thread.\n\nOne like = one question you really wish I hadn't asked you because of what your answer reveals about your shadow.",
+          "source_document_id": "1309411888753762304",
+          "timestamp": "2020-09-25T08:38:16+00:00",
+          "url": "https://x.com/geniesloki/status/1309411888753762304",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, thing, really."
+        },
+        {
+          "id": "art_869f32069980",
+          "title": "Think receipt from 2020-03-21",
+          "excerpt": "@freshhel @InfraredArmy God yes, this was very inconvenient timing for the world to fall apart.",
+          "source_document_id": "1241478921943687169",
+          "timestamp": "2020-03-21T21:36:55+00:00",
+          "url": "https://x.com/geniesloki/status/1241478921943687169",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, thing, really."
+        },
+        {
+          "id": "art_9fac866e7f95",
+          "title": "Think receipt from 2020-02-07",
+          "excerpt": "The issue I most side with rationalist/transhumanist types on is that it's incredibly weird that \"death is bad\" is a controversial opinion.",
+          "source_document_id": "1225781288474468352",
+          "timestamp": "2020-02-07T14:00:07+00:00",
+          "url": "https://x.com/geniesloki/status/1225781288474468352",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, thing, really."
+        },
+        {
+          "id": "art_a0f1962e3f10",
+          "title": "Think receipt from 2020-07-24",
+          "excerpt": "postrats are basically just rationalists who decided that the rational thing to do was to get therapy but then because they were rationalists decided they were much smarter than all the therapists and they should do it themselves instead.",
+          "source_document_id": "1286633638940073986",
+          "timestamp": "2020-07-24T12:05:38+00:00",
+          "url": "https://x.com/geniesloki/status/1286633638940073986",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, thing, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a2d89b777f2c",
+      "proof_score": 1,
+      "mass": 36.885,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_8d1ec7204dbc",
+      "name": "Don",
+      "summary": "Archive cluster around don: 978 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "really",
+        "want",
+        "good"
+      ],
+      "artifacts": [
+        {
+          "id": "art_62d13c666326",
+          "title": "Don receipt from 2020-05-06",
+          "excerpt": "I understand why \"Don't question people's lived experience\" is a good social norm, but it runs into the problem that people are reliably incredibly wrong about their lived experience literally all the time.",
+          "source_document_id": "1258119929284395010",
+          "timestamp": "2020-05-06T19:42:20+00:00",
+          "url": "https://x.com/geniesloki/status/1258119929284395010",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, want."
+        },
+        {
+          "id": "art_2558dde7115d",
+          "title": "Don receipt from 2020-08-25",
+          "excerpt": "What if the reason why women do most of the emotional labour is that we don't count it as emotional labour when men do it?\n\n(I was surprisingly reluctant to tweet this even on alt)",
+          "source_document_id": "1298197746046971910",
+          "timestamp": "2020-08-25T09:57:16+00:00",
+          "url": "https://x.com/geniesloki/status/1298197746046971910",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, want."
+        },
+        {
+          "id": "art_37b3716cd405",
+          "title": "Don receipt from 2020-12-10",
+          "excerpt": "I kinda want to popularise a concept of \"badass privilege\". i.e. problems that you personally don't experience or even notice because you're a badass.\n\nThere's no good reason to popularise this concept except that I am a being of pure chaos and it seems funny.",
+          "source_document_id": "1337041130282758153",
+          "timestamp": "2020-12-10T14:27:01+00:00",
+          "url": "https://x.com/geniesloki/status/1337041130282758153",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, want."
+        },
+        {
+          "id": "art_3941bc432918",
+          "title": "Don receipt from 2020-07-29",
+          "excerpt": "I don't really understand why everyone doesn't grind problem solving skills constantly. It feels like almost everyone gets to a certain (often quite low) skill level in what is basically a cheat code for life with unbounded upwards growth and then goes \"welp, that's good enough\"",
+          "source_document_id": "1288587829707190280",
+          "timestamp": "2020-07-29T21:30:54+00:00",
+          "url": "https://x.com/geniesloki/status/1288587829707190280",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d3b8a28b37a2",
+      "proof_score": 1,
+      "mass": 31.258,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_abf0a3c36edb",
+      "name": "Good",
+      "summary": "Archive cluster around good: 748 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "things",
+        "bad",
+        "actually",
+        "pretty"
+      ],
+      "artifacts": [
+        {
+          "id": "art_09abe35823d2",
+          "title": "Good receipt from 2021-01-09",
+          "excerpt": "Have you tried just being good at the thing you're worried about being bad at? It seems like less work than worrying",
+          "source_document_id": "1348013377646452736",
+          "timestamp": "2021-01-09T21:06:48+00:00",
+          "url": "https://x.com/geniesloki/status/1348013377646452736",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, things, bad, actually."
+        },
+        {
+          "id": "art_5227af03c8fb",
+          "title": "Good receipt from 2021-02-24",
+          "excerpt": "Remember everyone, it's really important to shame anyone who ever admits to being bad at something or is otherwise visibly bad at it. This is a really good way to make sure that everyone is good at things and will have zero negative consequences.",
+          "source_document_id": "1364686133502820355",
+          "timestamp": "2021-02-24T21:18:23+00:00",
+          "url": "https://x.com/geniesloki/status/1364686133502820355",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, things, bad, actually."
+        },
+        {
+          "id": "art_eac4f6033129",
+          "title": "Good receipt from 2020-05-06",
+          "excerpt": "As I said, it's still a good social norm, unless you've got a specific good reason to doubt someone you should probably trust them in order to not be a jerk, but there's no workable moral norm or rule around necessarily treating people as reliable reporters of their experience.",
+          "source_document_id": "1258123439283503104",
+          "timestamp": "2020-05-06T19:56:17+00:00",
+          "url": "https://x.com/geniesloki/status/1258123439283503104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, things, bad, actually."
+        },
+        {
+          "id": "art_d99884c00e85",
+          "title": "Good receipt from 2020-11-23",
+          "excerpt": "One of these days I'm just going to snap and go full \"elitism is good actually\".",
+          "source_document_id": "1330864224822812677",
+          "timestamp": "2020-11-23T13:22:12+00:00",
+          "url": "https://x.com/geniesloki/status/1330864224822812677",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, things, bad, actually."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7a6720088c85",
+      "proof_score": 1,
+      "mass": 30.281,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_5bc99e1210aa",
+      "name": "Lot",
+      "summary": "Archive cluster around lot: 501 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lot",
+        "yeah",
+        "things",
+        "men",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0f5ef7d945a4",
+          "title": "Lot receipt from 2020-05-06",
+          "excerpt": "This is partly speaking as someone who has spent a lot of time being wrong about their lived experience BTW, so my lived experience is that people can be very wrong about their lived experience.",
+          "source_document_id": "1258122086201131008",
+          "timestamp": "2020-05-06T19:50:54+00:00",
+          "url": "https://x.com/geniesloki/status/1258122086201131008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, yeah, things, men."
+        },
+        {
+          "id": "art_bc20b3846060",
+          "title": "Lot receipt from 2020-09-12",
+          "excerpt": "You know how some people are *really* into being geeks and proudly declare they're geeks and are super into things specifically because they're geeky and it's just incredibly cringe, especially if you're also a geek?\n\nI feel like a lot of identity labels work like this.",
+          "source_document_id": "1304848093414916097",
+          "timestamp": "2020-09-12T18:23:23+00:00",
+          "url": "https://x.com/geniesloki/status/1304848093414916097",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, yeah, things, men."
+        },
+        {
+          "id": "art_bd9e8e8f68bc",
+          "title": "Lot receipt from 2020-02-12",
+          "excerpt": "Things that seem to help me a lot:\n\n1. Set alarm to 6AM\n2. Do exercise\n3. Switch to the Incredibly Virtuous Diet which cuts out carbs and dairy and a bunch of other delicious things.\n\nI hate that this works. I'm glad I have something that works but I hate that it's this.",
+          "source_document_id": "1227688553104265216",
+          "timestamp": "2020-02-12T20:18:55+00:00",
+          "url": "https://x.com/geniesloki/status/1227688553104265216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, yeah, things, men."
+        },
+        {
+          "id": "art_b6898f95ae05",
+          "title": "Lot receipt from 2020-05-06",
+          "excerpt": "Being right about things is complicated af and requires a lot of domain expertise, and very few people have domain expertise in understanding their lives.",
+          "source_document_id": "1258122627320893440",
+          "timestamp": "2020-05-06T19:53:03+00:00",
+          "url": "https://x.com/geniesloki/status/1258122627320893440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, yeah, things, men."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e1dc1c3c592f",
+      "proof_score": 0.972,
+      "mass": 29.514,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_d2c31914d5b3",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 515 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "too",
+        "things",
+        "thing",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_af606f990e6a",
+          "title": "Yeah receipt from 2020-08-25",
+          "excerpt": "@DistractedAnna This is kinda what I was getting at in https://t.co/vk0gZAUzvR\n\nIf yo look at typical feminine examples of emotional labour yeah 100% men do less of that. Male emotional labour is generally about not exhibiting emotion rather than exhibiting it.",
+          "source_document_id": "1298200548328513536",
+          "timestamp": "2020-08-25T10:08:24+00:00",
+          "url": "https://x.com/geniesloki/status/1298200548328513536",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, things, thing."
+        },
+        {
+          "id": "art_6b08fa669f97",
+          "title": "Yeah receipt from 2021-03-23",
+          "excerpt": "An interesting test of people's politics is \"Which groups have to be affected by a problem before you care about it?\"\n\nPart of why this is interesting is that everybody goes \"Oh yeah you're right this *perfectly* captures why my political opponents are in the wrong\"",
+          "source_document_id": "1374316560609910786",
+          "timestamp": "2021-03-23T11:06:16+00:00",
+          "url": "https://x.com/geniesloki/status/1374316560609910786",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, things, thing."
+        },
+        {
+          "id": "art_ea81fb19b4fe",
+          "title": "Yeah receipt from 2020-12-10",
+          "excerpt": "But something like intelligence, attractiveness, and to some degree wealth... yeah, it's pretty great to be hot, smart, and wealthy (or so I'm told...), and modesty and status norms make it hard to acknowledge that during privilege discourse.",
+          "source_document_id": "1337040786328784897",
+          "timestamp": "2020-12-10T14:25:39+00:00",
+          "url": "https://x.com/geniesloki/status/1337040786328784897",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, things, thing."
+        },
+        {
+          "id": "art_5b491999b817",
+          "title": "Yeah receipt from 2020-12-01",
+          "excerpt": "@visakanv @maybegray Yeah. The thing that stops people doing this isn't that they're lazy (cf. https://t.co/tH2wiY5uRA ) it's that it's scary, and treating it as bad and wrong just makes that worse.\n\nChange is possible and can be fun. The fear and shame maintain stasis if you let them.",
+          "source_document_id": "1333874478863028224",
+          "timestamp": "2020-12-01T20:43:52+00:00",
+          "url": "https://x.com/geniesloki/status/1333874478863028224",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, too, things, thing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6d25806e0516",
+      "proof_score": 0.975,
+      "mass": 28.647,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_0d40e88eab9e",
+      "name": "Things",
+      "summary": "Archive cluster around things: 363 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "things",
+        "bad",
+        "thing",
+        "which",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_89212efa75e7",
+          "title": "Things receipt from 2020-12-27",
+          "excerpt": "For reasons I might be less likely to want to tweet controversial things right now and so might stick to sensible safe topics for a while.\n\n...\n\nNo, fuck that, lets do a thread about sexuality hacking.",
+          "source_document_id": "1343170333747142657",
+          "timestamp": "2020-12-27T12:22:17+00:00",
+          "url": "https://x.com/geniesloki/status/1343170333747142657",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, bad, thing, which."
+        },
+        {
+          "id": "art_f7e17b01a126",
+          "title": "Things receipt from 2020-10-08",
+          "excerpt": "Relationship* tool: When you are having Complicated Feelings about someone, start a document titled \"Things I want to say to (name)\" and write down what you would say to them if you trusted them completely.\n\n* Doesn't have to be a romantic one, though some mostly useful if close.",
+          "source_document_id": "1314147204630708224",
+          "timestamp": "2020-10-08T10:14:43+00:00",
+          "url": "https://x.com/geniesloki/status/1314147204630708224",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, bad, thing, which."
+        },
+        {
+          "id": "art_3e939a1e74f6",
+          "title": "Things receipt from 2022-03-10",
+          "excerpt": "Fun etymology facts: \"This is fine\" used to be a thing you said when things were actually fine.",
+          "source_document_id": "1501884808858943493",
+          "timestamp": "2022-03-10T11:36:56+00:00",
+          "url": "https://x.com/geniesloki/status/1501884808858943493",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, bad, thing, which."
+        },
+        {
+          "id": "art_f2454c02a8de",
+          "title": "Things receipt from 2020-12-22",
+          "excerpt": "It's very frustrating when you hit a trigger and your brain is like \"Congrats! You've won the grand prize of being vaguely sad about everything for the rest of the day!\" even when you know full well that the event wasn't a big deal and the things you're sad about are mostly fine.",
+          "source_document_id": "1341462117166293001",
+          "timestamp": "2020-12-22T19:14:26+00:00",
+          "url": "https://x.com/geniesloki/status/1341462117166293001",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, bad, thing, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e05fb2de6ee8",
+      "proof_score": 0.94,
+      "mass": 28.358,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
